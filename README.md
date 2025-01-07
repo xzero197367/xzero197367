@@ -47,10 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/xzero197367/xzero197367/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/xzero197367/count.svg?"  />
 </div>
